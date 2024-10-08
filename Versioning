@@ -1,0 +1,46 @@
+# FitTrack App - Versioning History
+
+This document describes the semantic versioning of the FitTrack app, a fitness tracking mobile application.
+
+## Version 1.0.0
+- Initial release with core features:
+  - User account creation.
+  - Daily steps and calories tracking.
+  - Basic workout and meal logging.
+  - Dashboard to track weekly activity.
+
+## Version 1.1.0
+- New features:
+  - Integration with wearable devices.
+  - Predefined workout plans.
+  - Enhanced meal logging.
+- Performance improvements and UI tweaks.
+
+## Version 1.1.3
+- Bug fixes:
+  - Resolved issues with wearable syncing.
+  - Fixed app crashes during logout.
+  - Corrected calorie-tracking issues.
+
+## Version 1.2.0
+- New features:
+  - Social sharing for achievements.
+  - Leaderboard feature.
+  - Added macro-nutrient breakdown for meal logging.
+- Improved step-tracking accuracy.
+
+## Version 2.0.0
+- Major release:
+  - Full app redesign.
+  - AI-based workout recommendations.
+  - Premium subscription features.
+  - Video tutorials for exercises.
+  - Deprecated older device support.
+
+## Version 2.0.1
+- Bug fixes:
+  - Fixed subscription access issues.
+  - Resolved video loading problems.
+
+---
+This README was created as part of the exercise on semantic versioning.
